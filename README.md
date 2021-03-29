@@ -1,16 +1,26 @@
-### Hi there 👋
+# 一入编程深似海,从此头发是路人.
 
-<!--
-**laomo337/laomo337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img 
+  src="https://github.com/mikuhuyo/mikuhuyo/raw/main/resources/banner.png" 
+  alt="Hello world">
 
-Here are some ideas to get you started:
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mikuhuyo/count.svg" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 关于我
+
+Q _ Q: 3054961900
+
+邮箱: yueliminvc@outlook.com
+
+作者: 岳立民
+
+简介: 不修边幅的全栈工程师.
+
+## 统计
+
+[![](https://github-readme-stats.vercel.app/api?username=mikuhuyo&show_icons=true)](https://github.com/mikuhuyo/github-readme-stats)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikuhuyo)](https://github.com/mikuhuyo/github-readme-stats)
